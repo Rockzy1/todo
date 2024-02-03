@@ -35,7 +35,7 @@ if __name__ == "__main__":
     #create a loop to run the app
 
 
- print("welcome to the to do list app:  ")
+ print("welcome to the to do list app")
 
 while True:
     print("\n")
